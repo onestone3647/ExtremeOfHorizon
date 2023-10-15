@@ -1,4 +1,4 @@
 # ExtremeOfHorizon
 대학 졸업작품
 
-https://youtu.be/yKPGy5iGI8s
+[![Video Label](http://img.youtube.com/vi/yKPGy5iGI8s/0.jpg)](https://youtu.be/yKPGy5iGI8s)
